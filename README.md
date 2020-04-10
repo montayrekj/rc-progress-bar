@@ -2,7 +2,9 @@ rc-progress-bar
 ============
 Easy to use progress-bar for react web applications
 
-![Demo](assets/rc-progress-bar.png)
+## Demo
+
+[Show Demo](https://montayrekj.github.io/rc-progress-bar)
 
 Install
 --------
